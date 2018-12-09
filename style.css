@@ -1,0 +1,13 @@
+.paragraph{
+  background-color: red;
+  color: blue;
+  font-family: cursive;
+  padding: 1.5px;
+}
+.welcome{
+  font-style: italic;
+}
+#firstHeader{
+  font-size: 10em;
+  text-align: center;
+}
